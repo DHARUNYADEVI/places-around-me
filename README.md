@@ -111,6 +111,12 @@ zohospokeoffice.html
 ```
 ## Output:
 ![Dharunyadevi-hometown](https://github.com/DHARUNYADEVI/places-around-me/assets/147473847/dd7ad2b9-a887-433f-aedb-a34c5195e289)
+![Screenshot from 2023-11-20 17-49-33](https://github.com/DHARUNYADEVI/places-around-me/assets/147473847/614a7421-e6ec-4a3a-b188-22179fcf6cd1)
+![Screenshot from 2023-11-20 17-49-48](https://github.com/DHARUNYADEVI/places-around-me/assets/147473847/c3fe7e34-1d9d-4081-99f0-8858749ca805)
+![Screenshot from 2023-11-20 17-49-55](https://github.com/DHARUNYADEVI/places-around-me/assets/147473847/d4c3dc79-a9be-4a3a-a219-626f7a9334ea)
+![Screenshot from 2023-11-20 17-50-05](https://github.com/DHARUNYADEVI/places-around-me/assets/147473847/50145cb0-09ce-425a-b370-0f9767c2f089)
+![Screenshot from 2023-11-20 17-50-30](https://github.com/DHARUNYADEVI/places-around-me/assets/147473847/ba37366e-1d3d-4959-9af6-3ef301519a37)
+
 
 
 ## Result:
