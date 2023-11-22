@@ -110,11 +110,7 @@ zohospokeoffice.html
 </html>
 ```
 ## Output:
-![Uploading Dharunyadevi-hometown.jpg…]()
-![Uploading Screenshot from 2023-11-20 17-49-33.png…]()
-![Uploading Screenshot from 2023-11-20 17-49-48.png…]()
-![Uploading Screenshot from 2023-11-20 17-49-55.png…]()
-![Uploading Screenshot from 2023-11-20 17-50-05.png…]()
+![Dharunyadevi-hometown](https://github.com/DHARUNYADEVI/places-around-me/assets/147473847/dd7ad2b9-a887-433f-aedb-a34c5195e289)
 
 
 ## Result:
